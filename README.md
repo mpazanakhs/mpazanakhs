@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mpazanakhs
+- 👀 I’m interested in hating OOP
+- 🌱 I’m currently learning c-html
